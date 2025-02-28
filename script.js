@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     "waning-crescent": {
       images: ["waning-crescent1", "waning-crescent2"],
-      text: "Like the Waning Crescent, our love is a quiet, steady fLike the Waning Crescent, our love is a quiet, steady force that guides me through life. No matter where I am, your love is my compass, always leading me back to you."
+      text: "Like the Waning Crescent, our love is a quiet, steady like the Waning Crescent, our love is a quiet, steady force that guides me through life. No matter where I am, your love is my compass, always leading me back to you."
     }
   };
 
